@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’ve been working as PM for 10+ years already.
+- Junior vibecoder
 
 <!---
 mrhaste-pm/mrhaste-pm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
